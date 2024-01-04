@@ -10,3 +10,5 @@ In this project, we will predict if the Falcon 9 first stage will land successfu
 4. Interactive Visual Analytics
 5. Machine Learning
 6. Presentation
+
+![Dashbioard](4. Interactive Visual nalytics and Dashboard/Dashboard.png)
