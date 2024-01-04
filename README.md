@@ -6,7 +6,7 @@ In this project, we will predict if the Falcon 9 first stage will land successfu
 ## Objectives
 1. Data Collection
 2. Data Wrangling
-3. Exploratory Dadta Analysis (EDA)
+3. Exploratory Data Analysis (EDA)
 4. Interactive Visual Analytics
 5. Machine Learning
 6. Presentation
