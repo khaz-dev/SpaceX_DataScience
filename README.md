@@ -11,4 +11,5 @@ In this project, we will predict if the Falcon 9 first stage will land successfu
 5. Machine Learning
 6. Presentation
 
-![Dashbioard](4. Interactive Visual nalytics and Dashboard/Dashboard.png)
+## SpaceX Dashboard Interactive Visual Analytics usihng Plotly Dash
+![SpaceX Dashboard](https://github.com/KhaAzAs/SpaceX_Data_Science_Project/blob/main/4.%20Interactive%20Visual%20Analytics%20and%20Dashboard/Dashboard.png)
